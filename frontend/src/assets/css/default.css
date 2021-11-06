@@ -1,0 +1,14 @@
+.wrap {
+  /* border: solid 1ch rgb(51, 51, 204); */
+  min-height: 100%;
+}
+.content {
+  padding: 20px;
+  /* border: solid 1ch red; */
+  padding-bottom: 2.5rem;
+}
+.footer {
+  position: absolute;
+  bottom: 0;
+  height: 2.5rem;
+}
